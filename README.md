@@ -1,16 +1,19 @@
-# 🌾 Crop Recommendation System
+#  Crop Recommendation System
+### Siva GangadharaRao Tadiboyina - 25BAI11508 - VIT Bhopal University
+
+---
 
 A machine learning-based system that recommends the most suitable crop to grow based on soil nutrients and environmental conditions. Built to help farmers make data-driven planting decisions and improve agricultural yield.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Farmers in India often rely on intuition or tradition when choosing which crop to plant, without accounting for current soil conditions or weather patterns. This leads to poor yield, financial loss, and resource wastage. This project uses a classification ML model to recommend the best crop based on measurable soil and climate inputs.
 
 ---
 
-## 🎯 Features
+##  Features
 
 - Predicts the best crop from 22 possible options
 - Takes soil nutrients (N, P, K), temperature, humidity, pH, and rainfall as inputs
@@ -19,7 +22,7 @@ Farmers in India often rely on intuition or tradition when choosing which crop t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -31,7 +34,7 @@ Farmers in India often rely on intuition or tradition when choosing which crop t
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 crop-recommendation/
@@ -46,7 +49,7 @@ crop-recommendation/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -73,13 +76,13 @@ jupyter
 ### 3. Download the Dataset
 
 Download the **Crop Recommendation Dataset** from Kaggle:
-👉 https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+ https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 Place the CSV file in the project root as `Crop_recommendation.csv`.
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### Option A: Run the Script Directly
 
@@ -110,7 +113,7 @@ jupyter notebook crop_recommendation.ipynb
 
 ---
 
-## 📊 Input Parameters
+##  Input Parameters
 
 | Parameter | Description | Unit | Example |
 |-----------|-------------|------|---------|
@@ -124,7 +127,7 @@ jupyter notebook crop_recommendation.ipynb
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 - **Algorithm:** Random Forest Classifier
 - **Accuracy:** ~99%
@@ -133,20 +136,20 @@ jupyter notebook crop_recommendation.ipynb
 
 ---
 
-## 🌱 Supported Crops
+##  Supported Crops
 
 Rice, Maize, Chickpea, Kidney Beans, Pigeon Peas, Moth Beans, Mung Bean, Black Gram, Lentil, Pomegranate, Banana, Mango, Grapes, Watermelon, Muskmelon, Apple, Orange, Papaya, Coconut, Cotton, Jute, Coffee
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙋 Author
+##  Author
 
-**[Your Name]**  
-B.Tech Student | VIT  
+**Siva GangadharaRao Tadiboyina**  
+B.Tech Student | VIT  Bhopal University
 Course: Fundamentals of AI and ML
